@@ -21,4 +21,4 @@ Numero di push minimo totale: 6
 
 <hr>
 
-Mail: 1- Creare un array con le mail; 2- Stampare l'array sulla console; 3- Inserire Prompt per permettere all'utente di digitare il suo contatto; 4- Ciclare l'array ed accostare la condizionale "if - else" per la ricerca del contatto dell'utente nella lista;
+Mail: 1- Creare un array con le mail; 2- Stampare l'array sulla console; 3- Inserire Prompt per permettere all'utente di digitare il suo contatto; 4- Ciclare l'array ed accostare la condizionale "if - else" per la ricerca del contatto dell'utente nella lista; 5- Utilizzare un valore booleano al termine "found" e permettere all'if di validarsi attraverso esso per poi giungere al Break per evitare un loop di ricerca infinito.
