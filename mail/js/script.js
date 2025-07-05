@@ -22,6 +22,4 @@ else { break;
   console.log('Il contatto non è presente in lista');
 }
 
-
-
 }
