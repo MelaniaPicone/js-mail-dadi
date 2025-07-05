@@ -13,19 +13,19 @@ const mailGuest = [
   const userMail = prompt('Inserisci qui il tuo contatto');
 
 // utilizzo valore booleano per indicare "trovato/non trovato in lista"
-  let found = 0;
+  let found = false;
 
 // ciclo for delle email e if
 // break se la mail viene trovata e uscita dal ciclo
 
 for (let i=0; i<mailGuest.length; i++) {
 if (mailGuest[i] === userMail ) {break}
-found = 1;
+found = true;
 }
 
 // secondo if - else successivo all'uscita dal ciclo precedente
 
-if (found = 1) {
+if (found = true) {
   console.log('Il contatto è presente in lista');
 } 
 else {
