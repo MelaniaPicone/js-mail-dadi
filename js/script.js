@@ -7,17 +7,20 @@ const mailGuest = [
   'fiore.milano@gmail.it', 
   'francesco.solerte@aruba.com'];
 
-console.log(mailGuest);
 
   // inserisci la tua mail
   const userMail = parseInt(prompt('Inserisci qui il tuo contatto'));
-  let = notFind;
 
-// ciclo for delle email
+// ciclo for delle email e if
 
+for (let i=0; i<mailGuest.length; i++) {
+if (mailGuest[i] === userMail ) {
+  console.log('Il contatto è presente in lista');
+}
 
-
-
+else { break; 
+  console.log('Il contatto non è presente in lista');
+}
 
 
 
