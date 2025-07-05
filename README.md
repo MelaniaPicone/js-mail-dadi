@@ -1,0 +1,22 @@
+<h1 align="center">Js Mail Dadi</h1>
+<b>Mail</b>
+<ul><li>Crea una lista di email di invitati ad una festa.</li>
+<li>Chiedi all’utente la sua email,</li>
+<li>Controlla che sia nella lista di chi può accedere,</li>
+<li>Stampa un messaggio appropriato sull’esito del controllo, utilizzando un ciclo for.</li>
+<li>Non è consentito usare nessun metodo proprio degli array (come includes, per esempio).</li></ul><br>
+Si può fare? Certo che si basta ragionare un po’.<br>
+<b>Nota:</b> Non è necessario provvedere alla validazione delle email.<br>
+<hr><br>
+<b>Gioco dei dadi</b><br>
+<ul><li>Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.</li>
+<li>Stabilire il vincitore, in base a chi fa il punteggio più alto.</li></ul><br>
+
+Prima di partire a scrivere codice poniamoci qualche domanda:<br>
+Che ci sia un array da qualche parte?<br>
+Se dobbiamo confrontare qualcosa che "cosa" ci serve?<br>
+
+Fate sempre il file readme.md in cui scrivere i testi dell'esercizio e scomporre il problema in sottoproblemi. <br>
+Numero di push minimo totale: 6
+
+<hr>
